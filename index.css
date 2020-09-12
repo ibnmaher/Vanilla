@@ -94,11 +94,11 @@ section{
     height: auto;
   }
   .lemon {
-    margin-top: 8.5%;
-    margin-left: 19.7%;
+    margin-top: 25px;
+    margin-left: 18%;
   }
   .prem {
-    margin-top: -8.5%;
+    margin-top: -25px;
   }
   .text-right {
     animation-name: rr;
